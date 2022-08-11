@@ -16,3 +16,8 @@ we have build a fall detection device using NodeMCU and MPU6050 sensor module. M
  
 ## Circuit Diagram
 Circuit Diagram for IoT based Fall Detector using NodeMCU is given below.
+
+| ![](circuit_1.JPG) | 
+|:--:| 
+| **Circuit Diagram:**NodeMCU ESP8266 with MPU6050 Accelerometer** |
+
